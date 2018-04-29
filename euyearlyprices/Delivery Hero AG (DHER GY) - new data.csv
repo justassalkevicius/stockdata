@@ -1,0 +1,5 @@
+Date,Rdexpense,Ceo,Revenue,NetIncome,SustGrowthRate,Ebitda,TotalEquity,ShortTermDebt,LongTermDebt,ReturnOfAssets,ReturnOfEquity,TotalAssets,TotalCurrentLiab,TotalLiab,FinLeverage,NumOfEmployees,GrossProfit,OperatingMargin,StockNow,TargetStock1Year,TargetStock2Year,TargetStock3Year,TargetStock1YGrowth,TargetStock2YGrowth,TargetStock3YGrowth
+12/31/2014 00:00:00,,,88.008,-86.044,,-71.215,268.842,0.832,0,,,517.784,64.096,248.942,,,71.075,0.832,,,,,,,
+12/31/2015 00:00:00,0,,166.157,-244.622,,-154.531,765.491,0,0,-25.652085,-46.982789,1389.445,180.714,623.953,1.831539,2843,136.83,0,,,,,,,
+12/31/2016 00:00:00,0,,297.026,-187.446,,-106.519,892.207,0,116.403,-12.40709,-22.398006,1632.15,237.252,739.943,1.805259,6848,212.725,0,,,,,,,
+12/31/2017 00:00:00,,,549.8,-247,,-101.1,,,,-9.14,-19.112,,,,,,365.617,,33,,,,,,
